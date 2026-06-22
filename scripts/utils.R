@@ -4,7 +4,7 @@
 # Usar con: source("scripts/utils.R")  (desde la raíz del proyecto)
 # ============================================================
 
-source("code/packages.R")
+source("scripts/packages.R")
 ensure_packages(c("ggplot2", "cowplot"))
 
 # ---- Constantes ----
